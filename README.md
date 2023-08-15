@@ -40,5 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imyunohenrique&" alt="imyunohenrique" /></p>
 
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xun31otghm2wxwne7fmvxnoxc)
