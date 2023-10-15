@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davi Henrique</h1>
+<h1 align="center">Opa 👋, sou Davi Henrique!</h1>
 <h3 align="center">Um simples estudante de Desenvolvimento de Sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imyunohenrique&label=Profile%20views&color=0e75b6&style=flat" alt="imyunohenrique" /> </p>
