@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davi!</h1>
-<h3 align="center">I'm a Systems Development student at ETE Miguel Arraes de Alencar.</h3>
+<h3 align="center">I'm a cool Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imyunohenrique&label=Profile%20views&color=0e75b6&style=flat" alt="imyunohenrique" /> </p>
 
